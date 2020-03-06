@@ -1,8 +1,6 @@
 # OnRamp-Take-Home-Project
 
 Simulator Screen Shot - iPhone 11 - 2020-03-06 at 08.31.27
-Simulator Screen Shot - iPhone 11 - 2020-03-06 at 08.31.33
-Simulator Screen Shot - iPhone 11 - 2020-03-06 at 08.33.58
 
 <b>Project Requirements</b>
 - Create a weather app that requests and retrieves users location and then returns daily forecasts for that location in the form or a tableview or collectionview, then on didSelect, user will be taken to a page that shows the datapoint summary of the forecast.

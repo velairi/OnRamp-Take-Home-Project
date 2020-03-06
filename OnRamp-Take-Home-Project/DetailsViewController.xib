@@ -10,6 +10,7 @@
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DetailsViewController" customModule="OnRamp_Take_Home_Project" customModuleProvider="target">
             <connections>
                 <outlet property="summaryLabel" destination="uWc-BH-NNu" id="Y10-FA-PNf"/>
+                <outlet property="view" destination="ZSv-cN-Fza" id="0Li-Zc-J4T"/>
             </connections>
         </placeholder>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>

@@ -3,6 +3,7 @@
 <b>Screenshots</b>
 - Found in the files above!
 
+
 <b>Project Requirements</b>
 - Create a weather app that requests and retrieves users location and then returns daily forecasts for that location in the form or a tableview or collectionview, then on didSelect, user will be taken to a page that shows the datapoint summary of the forecast.
 

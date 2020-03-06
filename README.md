@@ -14,7 +14,7 @@
 <b>Assumptions</b>
 - Made the assumption that we're looking for a week of forecasts
 - Made the assumption that we're supporting devices iOS 10 and up
-- Made the assumption that the app will be vertical landscap
+- Made the assumption that the app should stay in portrait mode
 
 <b>What I need to do</b>
 - Obtain user's location: I haven't been able to get this to work. For location I have to test on a real device, the problem is my Xcode does not want to build on my iPhone right now for some version 13.3 reason and states that I have to update Xcode.

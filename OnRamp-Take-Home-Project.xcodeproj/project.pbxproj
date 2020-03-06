@@ -14,6 +14,10 @@
 		8C68D62E241236D00096DCE3 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C68D62C241236D00096DCE3 /* HomeViewController.swift */; };
 		8C68D62F241236D00096DCE3 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C68D62D241236D00096DCE3 /* HomeViewController.xib */; };
 		8C68D631241238270096DCE3 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C68D630241238270096DCE3 /* Weather.swift */; };
+		8C68D63424123F380096DCE3 /* ForecastTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C68D63224123F380096DCE3 /* ForecastTableViewCell.swift */; };
+		8C68D63524123F380096DCE3 /* ForecastTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C68D63324123F380096DCE3 /* ForecastTableViewCell.xib */; };
+		8C68D6382412A2BB0096DCE3 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C68D6362412A2BB0096DCE3 /* DetailsViewController.swift */; };
+		8C68D6392412A2BB0096DCE3 /* DetailsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C68D6372412A2BB0096DCE3 /* DetailsViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +30,10 @@
 		8C68D62C241236D00096DCE3 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		8C68D62D241236D00096DCE3 /* HomeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
 		8C68D630241238270096DCE3 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
+		8C68D63224123F380096DCE3 /* ForecastTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastTableViewCell.swift; sourceTree = "<group>"; };
+		8C68D63324123F380096DCE3 /* ForecastTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ForecastTableViewCell.xib; sourceTree = "<group>"; };
+		8C68D6362412A2BB0096DCE3 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		8C68D6372412A2BB0096DCE3 /* DetailsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailsViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +70,10 @@
 				8C68D630241238270096DCE3 /* Weather.swift */,
 				8C68D62C241236D00096DCE3 /* HomeViewController.swift */,
 				8C68D62D241236D00096DCE3 /* HomeViewController.xib */,
+				8C68D63224123F380096DCE3 /* ForecastTableViewCell.swift */,
+				8C68D63324123F380096DCE3 /* ForecastTableViewCell.xib */,
+				8C68D6362412A2BB0096DCE3 /* DetailsViewController.swift */,
+				8C68D6372412A2BB0096DCE3 /* DetailsViewController.xib */,
 				8C68D61E241234040096DCE3 /* Main.storyboard */,
 				8C68D621241234040096DCE3 /* Assets.xcassets */,
 				8C68D623241234040096DCE3 /* LaunchScreen.storyboard */,
@@ -128,10 +140,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C68D63524123F380096DCE3 /* ForecastTableViewCell.xib in Resources */,
 				8C68D625241234040096DCE3 /* LaunchScreen.storyboard in Resources */,
 				8C68D622241234040096DCE3 /* Assets.xcassets in Resources */,
 				8C68D620241234040096DCE3 /* Main.storyboard in Resources */,
 				8C68D62F241236D00096DCE3 /* HomeViewController.xib in Resources */,
+				8C68D6392412A2BB0096DCE3 /* DetailsViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,9 +156,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C68D63424123F380096DCE3 /* ForecastTableViewCell.swift in Sources */,
 				8C68D619241234040096DCE3 /* AppDelegate.swift in Sources */,
 				8C68D631241238270096DCE3 /* Weather.swift in Sources */,
 				8C68D62E241236D00096DCE3 /* HomeViewController.swift in Sources */,
+				8C68D6382412A2BB0096DCE3 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

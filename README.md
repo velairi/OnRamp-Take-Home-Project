@@ -1,7 +1,7 @@
 # OnRamp-Take-Home-Project
 
 <b>Screenshots</b>
-https://github.com/velairi/OnRamp-Take-Home-Project/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-03-06%20at%2008.31.27.png
+Simulator Screen Shot - iPhone 11 - 2020-03-06 at 08.31.27.png
 
 
 <b>Project Requirements</b>

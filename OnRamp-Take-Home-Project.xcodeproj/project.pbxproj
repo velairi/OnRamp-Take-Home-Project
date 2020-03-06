@@ -13,6 +13,7 @@
 		8C68D625241234040096DCE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C68D623241234040096DCE3 /* LaunchScreen.storyboard */; };
 		8C68D62E241236D00096DCE3 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C68D62C241236D00096DCE3 /* HomeViewController.swift */; };
 		8C68D62F241236D00096DCE3 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C68D62D241236D00096DCE3 /* HomeViewController.xib */; };
+		8C68D631241238270096DCE3 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C68D630241238270096DCE3 /* Weather.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8C68D626241234040096DCE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8C68D62C241236D00096DCE3 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		8C68D62D241236D00096DCE3 /* HomeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+		8C68D630241238270096DCE3 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				8C68D618241234040096DCE3 /* AppDelegate.swift */,
+				8C68D630241238270096DCE3 /* Weather.swift */,
 				8C68D62C241236D00096DCE3 /* HomeViewController.swift */,
 				8C68D62D241236D00096DCE3 /* HomeViewController.xib */,
 				8C68D61E241234040096DCE3 /* Main.storyboard */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8C68D619241234040096DCE3 /* AppDelegate.swift in Sources */,
+				8C68D631241238270096DCE3 /* Weather.swift in Sources */,
 				8C68D62E241236D00096DCE3 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,7 +1,8 @@
 # OnRamp-Take-Home-Project
 
 <b>Screenshots</b>
-Simulator Screen Shot - iPhone 11 - 2020-03-06 at 08.31.27.png
+![Alt text](/relative/Simulator Screen Shot - iPhone 11 - 2020-03-06 at 08.31.27.png/to/img.jpg?raw=true "Optional Title")
+
 
 
 <b>Project Requirements</b>

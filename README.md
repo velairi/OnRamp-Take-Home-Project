@@ -1,5 +1,8 @@
 # OnRamp-Take-Home-Project
 
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
+
 <b>Project Requirements</b>
 - Create a weather app that requests and retrieves users location and then returns daily forecasts for that location in the form or a tableview or collectionview, then on didSelect, user will be taken to a page that shows the datapoint summary of the forecast.
 

@@ -1,6 +1,7 @@
 # OnRamp-Take-Home-Project
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+<b>Screenshots</b>
+https://github.com/velairi/OnRamp-Take-Home-Project/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-03-06%20at%2008.31.27.png
 
 
 <b>Project Requirements</b>
